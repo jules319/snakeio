@@ -4,12 +4,12 @@
  * @author Put your name here
  *
  */
-public final class ProgramSkeleton {
+public final class GamePanel {
 
     /**
      * Private constructor so this utility class cannot be instantiated.
      */
-    private ProgramSkeleton() {
+    private GamePanel() {
     }
 
     /**

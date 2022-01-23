@@ -9,12 +9,12 @@ import components.simplewriter.SimpleWriter1L;
  * @author Put your name here
  *
  */
-public final class ProgramWithIO {
+public final class SnakeGame {
 
     /**
      * Private constructor so this utility class cannot be instantiated.
      */
-    private ProgramWithIO() {
+    private SnakeGame() {
     }
 
     /**
